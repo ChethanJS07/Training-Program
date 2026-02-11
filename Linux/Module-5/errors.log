@@ -1,0 +1,12 @@
+[2026-02-06 22:31:01] INFO: Script started with arguments: --help
+[2026-02-08 11:06:31] INFO: Script started with arguments: -d /home/imchethanjs/embedUR/ -k Module
+[2026-02-08 11:06:31] INFO: Directory set to: /home/imchethanjs/embedUR/
+[2026-02-08 11:06:31] INFO: Keyword set to: Module
+[2026-02-08 11:06:31] INFO: Starting search in '/home/imchethanjs/embedUR/' for keyword 'Module'
+[2026-02-08 11:06:31] INFO: Search completed in '/home/imchethanjs/embedUR/'
+[2026-02-08 11:07:23] INFO: Script started with arguments: -f /home/imchethanjs/embedUR/Assignments/Linux/Module-5/Module_5.md -k Module
+[2026-02-08 11:07:23] INFO: File set to: /home/imchethanjs/embedUR/Assignments/Linux/Module-5/Module_5.md
+[2026-02-08 11:07:23] INFO: Keyword set to: Module
+[2026-02-08 11:07:23] INFO: Searching file '/home/imchethanjs/embedUR/Assignments/Linux/Module-5/Module_5.md' for keyword 'Module'
+[2026-02-08 11:07:23] INFO: Keyword found in '/home/imchethanjs/embedUR/Assignments/Linux/Module-5/Module_5.md'
+[2026-02-08 11:07:30] INFO: Script started with arguments: --help

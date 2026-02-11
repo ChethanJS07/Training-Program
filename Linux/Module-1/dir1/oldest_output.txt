@@ -1,0 +1,8 @@
+total 8.0K
+drwxr-xr-x 2 imchethanjs 4.0K Feb  3 23:12 dir2
+lrwxrwxrwx 1 imchethanjs   18 Feb  3 23:13 link_file.txt -> dir2/new_file3.txt
+-rw-r--r-- 1 imchethanjs    0 Feb  3 23:14 file1
+-rw-r--r-- 1 imchethanjs    0 Feb  3 23:15 file2
+-rw-r--r-- 1 imchethanjs    0 Feb  3 23:22 file3
+-rw-r--r-- 1 imchethanjs  346 Feb  3 23:23 newest_output.txt
+-rw-r--r-- 1 imchethanjs    0 Feb  3 23:23 oldest_output.txt

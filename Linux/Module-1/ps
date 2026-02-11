@@ -1,0 +1,303 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0  23640 14088 ?        Ss   11:33   0:02 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    11:33   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    11:33   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-rcu_gp]
+root           5  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-sync_wq]
+root           6  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-kvfree_rcu_reclaim]
+root           7  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-slub_flushwq]
+root           8  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-netns]
+root          10  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/0:0H-events_highpri]
+root          13  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-mm_percpu_wq]
+root          15  0.0  0.0      0     0 ?        S    11:33   0:00 [ksoftirqd/0]
+root          16  0.1  0.0      0     0 ?        I    11:33   1:13 [rcu_preempt]
+root          17  0.0  0.0      0     0 ?        S    11:33   0:00 [rcub/0]
+root          18  0.0  0.0      0     0 ?        S    11:33   0:00 [rcu_exp_par_gp_kthread_worker/0]
+root          19  0.0  0.0      0     0 ?        S    11:33   0:00 [rcu_exp_gp_kthread_worker]
+root          20  0.0  0.0      0     0 ?        S    11:33   0:00 [migration/0]
+root          21  0.0  0.0      0     0 ?        S    11:33   0:00 [idle_inject/0]
+root          22  0.0  0.0      0     0 ?        S    11:33   0:00 [cpuhp/0]
+root          23  0.0  0.0      0     0 ?        S    11:33   0:00 [cpuhp/2]
+root          24  0.0  0.0      0     0 ?        S    11:33   0:00 [idle_inject/2]
+root          25  0.0  0.0      0     0 ?        S    11:33   0:00 [migration/2]
+root          26  0.0  0.0      0     0 ?        S    11:33   0:00 [ksoftirqd/2]
+root          28  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/2:0H-events_highpri]
+root          29  0.0  0.0      0     0 ?        S    11:33   0:00 [cpuhp/4]
+root          30  0.0  0.0      0     0 ?        S    11:33   0:00 [idle_inject/4]
+root          31  0.0  0.0      0     0 ?        S    11:33   0:03 [migration/4]
+root          32  0.0  0.0      0     0 ?        S    11:33   0:00 [ksoftirqd/4]
+root          34  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/4:0H-events_highpri]
+root          35  0.0  0.0      0     0 ?        S    11:33   0:00 [cpuhp/5]
+root          36  0.0  0.0      0     0 ?        S    11:33   0:00 [idle_inject/5]
+root          37  0.0  0.0      0     0 ?        S    11:33   0:02 [migration/5]
+root          38  0.0  0.0      0     0 ?        S    11:33   0:00 [ksoftirqd/5]
+root          40  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/5:0H-events_highpri]
+root          41  0.0  0.0      0     0 ?        S    11:33   0:00 [cpuhp/6]
+root          42  0.0  0.0      0     0 ?        S    11:33   0:00 [idle_inject/6]
+root          43  0.0  0.0      0     0 ?        S    11:33   0:02 [migration/6]
+root          44  0.0  0.0      0     0 ?        S    11:33   0:00 [ksoftirqd/6]
+root          46  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/6:0H-events_highpri]
+root          47  0.0  0.0      0     0 ?        S    11:33   0:00 [cpuhp/7]
+root          48  0.0  0.0      0     0 ?        S    11:33   0:00 [idle_inject/7]
+root          49  0.0  0.0      0     0 ?        S    11:33   0:01 [migration/7]
+root          50  0.0  0.0      0     0 ?        S    11:33   0:00 [ksoftirqd/7]
+root          52  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/7:0H-events_highpri]
+root          53  0.0  0.0      0     0 ?        S    11:33   0:00 [cpuhp/8]
+root          54  0.0  0.0      0     0 ?        S    11:33   0:00 [idle_inject/8]
+root          55  0.0  0.0      0     0 ?        S    11:33   0:01 [migration/8]
+root          56  0.0  0.0      0     0 ?        S    11:33   0:00 [ksoftirqd/8]
+root          58  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/8:0H-events_highpri]
+root          59  0.0  0.0      0     0 ?        S    11:33   0:00 [cpuhp/9]
+root          60  0.0  0.0      0     0 ?        S    11:33   0:00 [idle_inject/9]
+root          61  0.0  0.0      0     0 ?        S    11:33   0:01 [migration/9]
+root          62  0.0  0.0      0     0 ?        S    11:33   0:00 [ksoftirqd/9]
+root          63  0.0  0.0      0     0 ?        I    11:33   0:02 [kworker/9:0-events]
+root          64  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/9:0H-events_highpri]
+root          65  0.0  0.0      0     0 ?        S    11:33   0:00 [cpuhp/10]
+root          66  0.0  0.0      0     0 ?        S    11:33   0:00 [idle_inject/10]
+root          67  0.0  0.0      0     0 ?        S    11:33   0:01 [migration/10]
+root          68  0.0  0.0      0     0 ?        S    11:33   0:00 [ksoftirqd/10]
+root          70  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/10:0H-events_highpri]
+root          71  0.0  0.0      0     0 ?        S    11:33   0:00 [cpuhp/11]
+root          72  0.0  0.0      0     0 ?        S    11:33   0:00 [idle_inject/11]
+root          73  0.0  0.0      0     0 ?        S    11:33   0:01 [migration/11]
+root          74  0.0  0.0      0     0 ?        S    11:33   0:00 [ksoftirqd/11]
+root          76  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/11:0H-kblockd]
+root          77  0.0  0.0      0     0 ?        S    11:33   0:00 [cpuhp/1]
+root          78  0.0  0.0      0     0 ?        S    11:33   0:00 [idle_inject/1]
+root          79  0.0  0.0      0     0 ?        S    11:33   0:00 [migration/1]
+root          80  0.0  0.0      0     0 ?        S    11:33   0:00 [ksoftirqd/1]
+root          82  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/1:0H-events_highpri]
+root          83  0.0  0.0      0     0 ?        S    11:33   0:00 [cpuhp/3]
+root          84  0.0  0.0      0     0 ?        S    11:33   0:00 [idle_inject/3]
+root          85  0.0  0.0      0     0 ?        S    11:33   0:00 [migration/3]
+root          86  0.0  0.0      0     0 ?        S    11:33   0:00 [ksoftirqd/3]
+root          87  0.0  0.0      0     0 ?        I    11:33   0:01 [kworker/3:0-events]
+root          88  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/3:0H-events_highpri]
+root          89  0.0  0.0      0     0 ?        S    11:33   0:00 [kdevtmpfs]
+root          90  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-inet_frag_wq]
+root          91  0.0  0.0      0     0 ?        I    11:33   0:00 [rcu_tasks_kthread]
+root          92  0.0  0.0      0     0 ?        I    11:33   0:00 [rcu_tasks_rude_kthread]
+root          93  0.0  0.0      0     0 ?        I    11:33   0:00 [rcu_tasks_trace_kthread]
+root          94  0.0  0.0      0     0 ?        S    11:33   0:00 [kauditd]
+root          95  0.0  0.0      0     0 ?        S    11:33   0:00 [khungtaskd]
+root          96  0.0  0.0      0     0 ?        S    11:33   0:00 [oom_reaper]
+root          98  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-writeback]
+root          99  0.0  0.0      0     0 ?        S    11:33   0:00 [kcompactd0]
+root         100  0.0  0.0      0     0 ?        SN   11:33   0:00 [ksmd]
+root         101  0.0  0.0      0     0 ?        SN   11:33   0:00 [khugepaged]
+root         103  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-kblockd]
+root         104  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-blkcg_punt_bio]
+root         105  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-kintegrityd]
+root         106  0.1  0.0      0     0 ?        S    11:33   1:15 [irq/9-acpi]
+root         108  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-tpm_dev_wq]
+root         110  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-ata_sff]
+root         111  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-edac-poller]
+root         112  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-devfreq_wq]
+root         113  0.0  0.0      0     0 ?        S    11:33   0:00 [watchdogd]
+root         114  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-quota_events_unbound]
+root         115  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/4:1H-i915_cleanup]
+root         116  0.0  0.0      0     0 ?        S    11:33   0:00 [kswapd0]
+root         117  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-kthrotld]
+root         118  0.0  0.0      0     0 ?        S    11:33   0:00 [irq/120-aerdrv]
+root         119  0.0  0.0      0     0 ?        S    11:33   0:00 [irq/121-aerdrv]
+root         120  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-acpi_thermal_pm]
+root         122  0.0  0.0      0     0 ?        S    11:33   0:01 [hwrng]
+root         123  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-hfi-updates]
+root         125  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-mld]
+root         126  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/1:1H-i915_cleanup]
+root         127  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-ipv6_addrconf]
+root         128  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-kstrp]
+root         137  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-zswap-shrink]
+root         140  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/2:1H-i915_cleanup]
+root         168  0.0  0.0      0     0 ?        I<   11:33   0:02 [kworker/5:1H-i915_cleanup]
+root         219  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/0:1H-kblockd]
+root         220  0.0  0.0      0     0 ?        I<   11:33   0:01 [kworker/9:1H-i915_cleanup]
+root         221  0.0  0.0      0     0 ?        I<   11:33   0:03 [kworker/6:1H-i915_cleanup]
+root         222  0.0  0.0      0     0 ?        I<   11:33   0:03 [kworker/7:1H-i915_cleanup]
+root         223  0.0  0.0      0     0 ?        I<   11:33   0:01 [kworker/8:1H-i915_cleanup]
+root         224  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/10:1H-kblockd]
+root         225  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/11:1H-events_highpri]
+root         226  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/3:1H-kblockd]
+root         229  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-nvme-wq]
+root         230  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-nvme-reset-wq]
+root         231  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-nvme-delete-wq]
+root         232  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-nvme-auth-wq]
+root         235  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-ttm]
+root         236  0.0  0.0      0     0 ?        S    11:33   0:00 [card1-crtc0]
+root         237  0.0  0.0      0     0 ?        S    11:33   0:00 [card1-crtc1]
+root         238  0.0  0.0      0     0 ?        S    11:33   0:00 [card1-crtc2]
+root         239  0.0  0.0      0     0 ?        S    11:33   0:00 [card1-crtc3]
+root         242  0.0  0.0      0     0 ?        I    11:33   0:01 [kworker/10:1-mm_percpu_wq]
+root         298  0.0  0.0      0     0 ?        S    11:33   0:00 [jbd2/nvme0n1p7-8]
+root         299  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-ext4-rsv-conversion]
+root         347  0.0  0.3  95036 59760 ?        Ss   11:33   0:02 /usr/lib/systemd/systemd-journald
+root         364  0.0  0.0  14832  5412 ?        Ss   11:33   0:00 /usr/lib/systemd/systemd-userdbd
+root         380  0.0  0.0      0     0 ?        S    11:33   0:00 [psimon]
+root         383  0.0  0.0  37928 11268 ?        Ss   11:33   0:02 /usr/lib/systemd/systemd-udevd
+root         389  0.0  0.0      0     0 ?        S    11:33   0:00 [psimon]
+root         391  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-iprt-VBoxWQueue]
+root         454  0.0  0.0      0     0 ?        S    11:33   0:00 [iprt-VBoxTscThread]
+root         492  0.0  0.0      0     0 ?        S    11:33   0:08 [irq/144-ELAN0791:00]
+root         524  0.0  0.0      0     0 ?        S    11:33   0:00 [irq/145-mei_me]
+root         537  0.0  0.0      0     0 ?        I<   11:33   0:00 [kworker/R-cfg80211]
+systemd+     552  0.0  0.0  89636  7436 ?        Ssl  11:33   0:00 /usr/lib/systemd/systemd-timesyncd
+root         560  0.0  0.0      0     0 ?        S    11:33   0:00 [irq/16-processor_thermal_device_pci]
+root         602  0.5  0.0      0     0 ?        S    11:33   3:30 [irq/146-rtw88_pci]
+root         615  0.0  0.0      0     0 ?        S    11:33   0:00 [irq/147-AudioDSP]
+dbus         644  0.0  0.0   8492  4184 ?        Ss   11:33   0:00 /usr/bin/dbus-broker-launch --scope system --audit
+dbus         645  0.0  0.0   7564  3848 ?        S    11:33   0:02 dbus-broker --log 10 --controller 9 --machine-id a1592e035d7049c78de7cd454d35b95c --max-bytes 536870912 --max-fds 4096 --max-matches 131072 --audit
+earlyoom     646  0.0  0.0   2584  1956 ?        S<Ls 11:33   0:01 /usr/bin/earlyoom -r 3600 -n --avoid (^|/)(init|systemd|Xorg|sshd)$
+root         647  0.0  0.1 417620 25624 ?        Ssl  11:33   0:10 /usr/bin/NetworkManager --no-daemon
+root         648  0.0  0.0   2588  1924 ?        Ss   11:33   0:01 /usr/bin/acpid --foreground --netlink
+root         650  0.0  0.0  10164  5808 ?        Ss   11:33   0:00 /usr/lib/bluetooth/bluetoothd
+root         652  0.0  0.0  16060  7796 ?        Ss   11:33   0:00 /usr/lib/systemd/systemd-logind
+root         704  0.0  0.0  16948 10908 ?        Ss   11:33   0:09 /usr/bin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root         710  0.0  0.0   6796  5052 ?        Ss   11:33   0:00 /usr/sbin/crond -n
+ntp          712  0.0  0.0  77824  4976 ?        Ssl  11:33   0:01 /usr/bin/ntpd -g -u ntp:ntp
+root         718  0.0  0.0   7512  5040 tty1     Ss+  11:33   0:26 /usr/bin/ly-dm
+root        3904  0.0  0.0  14112  8592 tty1     S+   11:36   0:00 /usr/bin/ly-dm
+imcheth+    3915  0.1  0.0  21936 12264 ?        Ss   11:36   0:46 /usr/lib/systemd/systemd --user --deserialize=12
+imcheth+    3917  0.0  0.0  22860  4168 ?        S    11:36   0:00 (sd-pam)
+imcheth+    3926  0.0  0.0  24060  4308 tty1     Sl+  11:36   0:00 /usr/bin/start-hyprland
+imcheth+    3952  1.6  1.1 1292776 181340 tty1   Sl+  11:36  11:21 Hyprland --watchdog-fd 4
+imcheth+    4042  0.0  0.0   8156  3800 ?        Ss   11:36   0:00 /usr/bin/dbus-broker-launch --scope user
+imcheth+    4043  0.0  0.0   4912  3300 ?        S    11:36   0:24 dbus-broker --log 11 --controller 10 --machine-id a1592e035d7049c78de7cd454d35b95c --max-bytes 100000000000000 --max-fds 25000000000000 --max-matches 5000000000
+imcheth+    4045  0.0  0.0 163692  5592 ?        Ssl  11:36   0:00 /usr/lib/dconf-service
+imcheth+    4234  0.0  0.0   7928  5760 ?        Ss   11:36   0:00 bash /home/imchethanjs/.local/lib/hyde/batterynotify.sh
+imcheth+    4235  0.0  0.3 718000 61944 ?        Ssl  11:36   0:00 /usr/bin/python /usr/sbin/blueman-applet
+imcheth+    4236  0.0  0.1 1629552 29804 ?       Ssl  11:36   0:23 /usr/sbin/dunst
+imcheth+    4237  0.0  0.0  83940  6388 ?        Ssl  11:36   0:24 /usr/sbin/hypridle
+imcheth+    4238  0.0  0.2 1909788 46460 ?       Ssl  11:36   0:04 /usr/sbin/nm-applet --indicator
+imcheth+    4240  0.0  0.4 1855192 69936 ?       Ssl  11:36   0:01 /usr/bin/python /usr/sbin/udiskie --no-automount --smart-tray
+imcheth+    4243  0.0  0.0   2692  1892 ?        Ss   11:36   0:00 /usr/sbin/wl-paste --type text --watch cliphist store
+imcheth+    4245  0.0  0.0   2692  1860 ?        Ss   11:36   0:00 /usr/sbin/wl-paste --type image --watch cliphist store
+imcheth+    4249  0.0  0.1 532156 28204 ?        Sl   11:36   0:00 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+imcheth+    4250  0.0  0.1  33268 25252 ?        Ss   11:36   0:08 python3 /home/imchethanjs/.local/lib/hyde/waybar.py --watch
+imcheth+    4273  0.0  0.7 650164 124212 tty1    Sl+  11:36   0:07 Xwayland :0 -rootless -core -listenfd 58 -listenfd 59 -displayfd 103 -wm 100
+imcheth+    4277  0.0  0.0 1226540 4340 ?        Ssl  11:36   0:00 /home/imchethanjs/.local/lib/hyde/hyde-config --no-startup
+polkitd     4317  0.0  0.0 381772  9584 ?        Ssl  11:36   0:00 /usr/lib/polkit-1/polkitd --no-debug --log-level=notice
+imcheth+    4319  0.0  0.0   5296  2860 ?        S    11:36   0:00 dbus-monitor --system type='signal',interface='org.freedesktop.DBus.Properties',path='/org/freedesktop/UPower/devices/battery_BAT0'
+imcheth+    4320  0.0  0.0   7928  4520 ?        S    11:36   0:02 bash /home/imchethanjs/.local/lib/hyde/batterynotify.sh
+imcheth+    4334  0.4  0.4 2884420 78184 ?       Ssl  11:36   2:55 /usr/sbin/waybar
+root        4350  0.0  0.1 322664 16896 ?        Ssl  11:36   0:04 /usr/lib/upowerd
+imcheth+    4352  0.0  0.0 380412  7148 ?        Ssl  11:36   0:00 /usr/lib/at-spi-bus-launcher
+imcheth+    4366  0.0  0.0   8032  3692 ?        S    11:36   0:00 /usr/bin/dbus-broker-launch --config-file=/usr/share/defaults/at-spi2/accessibility.conf --scope user
+imcheth+    4374  0.0  0.0   4196  2580 ?        S    11:36   0:00 dbus-broker --log 10 --controller 9 --machine-id a1592e035d7049c78de7cd454d35b95c --max-bytes 100000000000000 --max-fds 6400000 --max-matches 5000000000
+root        4399  0.0  0.0 542628 13228 ?        Ssl  11:36   0:00 /usr/lib/udisks2/udisksd
+imcheth+    4474  0.0  0.0 168164  6836 ?        Ssl  11:36   0:00 /usr/lib/at-spi2-registryd --use-gnome-session
+imcheth+    4487  0.0  0.0 305796  7592 ?        Ssl  11:36   0:00 /usr/lib/xdg-permission-store
+imcheth+    4501  0.0  0.0 539140  8748 ?        Ssl  11:36   0:26 /usr/lib/xdg-document-portal
+imcheth+    4544  0.0  0.0   2852  1992 ?        S    11:36   0:00 bwrap --unshare-all --die-with-parent --chdir / --ro-bind /usr /usr --dev /dev --ro-bind-try /etc/ld.so.cache /etc/ld.so.cache --ro-bind-try /nix/store /nix/store --tmpfs /tmp-home --tmpfs /tmp-run --clearenv --setenv HOME /tmp-home --setenv XDG_RUNTIME_DIR /tmp-run --setenv XDG_RUNTIME_DIR /run/user/1000 --symlink /usr/lib /lib64 --symlink /usr/lib /lib --seccomp 23 /usr/lib/glycin-loaders/2+/glycin-image-rs --dbus-fd 21
+imcheth+    4545  0.0  0.0   2852  1300 ?        S    11:36   0:00 bwrap --unshare-all --die-with-parent --chdir / --ro-bind /usr /usr --dev /dev --ro-bind-try /etc/ld.so.cache /etc/ld.so.cache --ro-bind-try /nix/store /nix/store --tmpfs /tmp-home --tmpfs /tmp-run --clearenv --setenv HOME /tmp-home --setenv XDG_RUNTIME_DIR /tmp-run --setenv XDG_RUNTIME_DIR /run/user/1000 --symlink /usr/lib /lib64 --symlink /usr/lib /lib --seccomp 23 /usr/lib/glycin-loaders/2+/glycin-image-rs --dbus-fd 21
+imcheth+    4550  0.0  0.0 144056  6092 ?        Sl   11:36   0:01 /usr/lib/glycin-loaders/2+/glycin-image-rs --dbus-fd 21
+root        4555  0.0  0.0   2580  1980 ?        Ss   11:36   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+imcheth+    4559  0.0  0.2 536180 43812 ?        Ssl  11:36   0:00 /usr/lib/xdg-desktop-portal-gtk
+imcheth+    4602  0.4  0.1 118004 20184 ?        S<sl 11:36   2:48 /usr/bin/pipewire
+imcheth+    4605  0.0  0.1 481084 20992 ?        S<sl 11:36   0:01 /usr/bin/wireplumber
+imcheth+    4607  0.6  0.1 134484 24196 ?        S<Lsl 11:36   4:19 /usr/bin/pipewire-pulse
+rtkit       4635  0.0  0.0  21760  3324 ?        SNsl 11:36   0:00 /usr/lib/rtkit-daemon
+imcheth+    4782  0.0  0.0   2852  1976 ?        S    11:36   0:00 bwrap --unshare-all --die-with-parent --chdir / --ro-bind /usr /usr --dev /dev --ro-bind-try /etc/ld.so.cache /etc/ld.so.cache --ro-bind-try /nix/store /nix/store --tmpfs /tmp-home --tmpfs /tmp-run --clearenv --setenv HOME /tmp-home --setenv XDG_RUNTIME_DIR /tmp-run --setenv XDG_RUNTIME_DIR /run/user/1000 --symlink /usr/lib /lib64 --symlink /usr/lib /lib --seccomp 22 /usr/lib/glycin-loaders/2+/glycin-image-rs --dbus-fd 20
+imcheth+    4785  0.0  0.0   2852  1368 ?        S    11:36   0:00 bwrap --unshare-all --die-with-parent --chdir / --ro-bind /usr /usr --dev /dev --ro-bind-try /etc/ld.so.cache /etc/ld.so.cache --ro-bind-try /nix/store /nix/store --tmpfs /tmp-home --tmpfs /tmp-run --clearenv --setenv HOME /tmp-home --setenv XDG_RUNTIME_DIR /tmp-run --setenv XDG_RUNTIME_DIR /run/user/1000 --symlink /usr/lib /lib64 --symlink /usr/lib /lib --seccomp 22 /usr/lib/glycin-loaders/2+/glycin-image-rs --dbus-fd 20
+imcheth+    4788  0.0  0.0 144056  6088 ?        Sl   11:36   0:00 /usr/lib/glycin-loaders/2+/glycin-image-rs --dbus-fd 20
+root        4840  0.0  0.0 308756  8904 ?        Ssl  11:36   0:00 /usr/lib/power-profiles-daemon
+imcheth+    4901  0.0  0.3 564408 52736 ?        Sl   11:36   0:16 /usr/bin/python /usr/bin/blueman-tray
+imcheth+    5119  0.0  0.0 188404  5488 tty1     Sl+  11:36   0:00 hyprsunset
+root        5174  0.0  0.0      0     0 ?        S<   11:36   0:00 [krfcommd]
+imcheth+    5297  0.0  0.0  70240  3144 ?        S    11:36   0:00 swww-daemon --format xrgb
+imcheth+    5355  0.0  0.1 500304 19324 ?        Ssl  11:36   0:00 /usr/lib/xdg-desktop-portal-hyprland
+imcheth+    5397  0.0  0.1 695636 17424 ?        Ssl  11:36   0:33 /usr/lib/xdg-desktop-portal
+imcheth+    5405  0.0  0.0   7836  5592 tty1     S+   11:36   0:00 bash /home/imchethanjs/.local/lib/hyde/open.sh --fall firefox web-browser
+imcheth+    5442  4.9  4.2 12766848 687000 tty1  Sl+  11:36  34:42 /opt/zen-browser-bin/zen-bin
+imcheth+    5557  0.0  0.1 540016 27140 tty1     S+   11:36   0:00 /opt/zen-browser-bin/zen-bin -contentproc -ipcHandle 0 -signalPipe 1 -initialChannelId {5384ca1e-8645-42d9-83b9-f14cd510c619} -parentPid 5442 -greomni /opt/zen-browser-bin/omni.ja -appomni /opt/zen-browser-bin/browser/omni.ja -appDir /opt/zen-browser-bin/browser 1 forkserver
+imcheth+    5574  0.0  0.2 560732 43536 tty1     Sl+  11:36   0:00 /opt/zen-browser-bin/zen-bin -contentproc -parentBuildID 20260127105552 -prefsHandle 0:44688 -prefMapHandle 1:288176 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {462e59f0-983e-4cda-9d18-53acb27f1435} -parentPid 5442 -appDir /opt/zen-browser-bin/browser 2 socket
+imcheth+    5598  0.0  1.6 2851220 256704 tty1   Sl+  11:36   0:03 /opt/zen-browser-bin/zen-bin -contentproc -isForBrowser -prefsHandle 0:44860 -prefMapHandle 1:288176 -jsInitHandle 2:223968 -parentBuildID 20260127105552 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {893a947c-d8ff-425f-9c88-d780ff858755} -parentPid 5442 -greomni /opt/zen-browser-bin/omni.ja -appomni /opt/zen-browser-bin/browser/omni.ja -appDir /opt/zen-browser-bin/browser 3 tab
+imcheth+    5608  0.5  1.0 1347516 169184 tty1   Sl+  11:36   3:50 /opt/zen-browser-bin/zen-bin -contentproc -parentBuildID 20260127105552 -prefsHandle 0:44860 -prefMapHandle 1:288176 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {fad3923c-6334-44b2-b2b3-35b9614b8955} -parentPid 5442 -appDir /opt/zen-browser-bin/browser 4 rdd
+imcheth+    5669  0.0  0.8 2748008 140312 tty1   Sl+  11:36   0:00 /opt/zen-browser-bin/zen-bin -contentproc -isForBrowser -prefsHandle 0:37187 -prefMapHandle 1:288176 -jsInitHandle 2:223968 -parentBuildID 20260127105552 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {ad75d562-8ff4-4fa3-b675-913272d6762f} -parentPid 5442 -greomni /opt/zen-browser-bin/omni.ja -appomni /opt/zen-browser-bin/browser/omni.ja -appDir /opt/zen-browser-bin/browser 5 tab
+imcheth+    5728  1.1  1.4 19994024 233136 tty1  Sl+  11:36   8:09 /opt/zen-browser-bin/zen-bin -contentproc -isForBrowser -prefsHandle 0:54241 -prefMapHandle 1:288176 -jsInitHandle 2:223968 -parentBuildID 20260127105552 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {214d2aa0-eda1-467f-b501-62e97f35a9ba} -parentPid 5442 -greomni /opt/zen-browser-bin/omni.ja -appomni /opt/zen-browser-bin/browser/omni.ja -appDir /opt/zen-browser-bin/browser 6 tab
+imcheth+    5802  0.2  0.4 845812 78560 tty1     Sl+  11:36   1:50 /opt/zen-browser-bin/zen-bin -contentproc -parentBuildID 20260127105552 -sandboxingKind 0 -prefsHandle 0:54451 -prefMapHandle 1:288176 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {601fae51-81b3-4e78-ac6d-f4eddc24c427} -parentPid 5442 -appDir /opt/zen-browser-bin/browser 7 utility
+imcheth+   24763  0.1  0.9 724244 152936 tty1    Sl+  11:44   0:42 /usr/sbin/kitty
+imcheth+   24815  0.0  0.1 1860904 27592 tty1    Sl+  11:44   0:00 /usr/bin/kitten __atexit__
+imcheth+   24817  0.0  0.0  14448 12644 pts/0    Ss   11:44   0:00 /usr/bin/zsh
+imcheth+   24995  0.0  0.0  11380  6968 pts/0    S    11:44   0:00 /usr/bin/zsh
+imcheth+   25016  0.0  0.0  14132  9628 pts/0    S    11:44   0:00 /usr/bin/zsh
+imcheth+   25017  0.0  0.0  14116  9296 pts/0    S    11:44   0:00 /usr/bin/zsh
+imcheth+   25019  0.0  0.0   5712  1648 pts/0    Sl   11:44   0:00 /home/imchethanjs/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.5.4 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 24
+imcheth+   25080  0.0  0.0   9940  6356 pts/0    S+   11:44   0:00 tmux
+imcheth+   25082  0.2  0.0  13088  7316 ?        Ss   11:44   1:44 tmux
+imcheth+   25390  0.0  0.0  14640 12516 pts/1    Ss   11:44   0:00 -zsh
+imcheth+   25610  0.0  0.0  13864  9292 pts/1    S    11:44   0:00 -zsh
+imcheth+   25614  0.0  0.0  13848  9012 pts/1    S    11:44   0:00 -zsh
+imcheth+   25617  0.0  0.0  14060  9696 pts/1    S    11:44   0:00 -zsh
+imcheth+   25625  0.0  0.0   5712  1724 pts/1    Sl   11:44   0:00 /home/imchethanjs/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.5.4 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 24
+imcheth+   25826  0.0  0.3 1162844 58652 ?       Ssl  11:44   0:31 mpd
+imcheth+   25980  0.0  0.0  14524 12484 pts/2    Ss   11:44   0:00 -zsh
+imcheth+   26121  0.0  0.0  11880  7472 pts/2    S    11:44   0:00 -zsh
+imcheth+   26177  0.0  0.0  14068  9504 pts/2    S    11:44   0:00 -zsh
+imcheth+   26179  0.0  0.0  14052  9168 pts/2    S    11:44   0:00 -zsh
+imcheth+   26180  0.0  0.0   5712  1728 pts/2    Sl   11:44   0:00 /home/imchethanjs/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.5.4 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 24
+imcheth+   26318  0.0  0.0  15516 13684 pts/3    Ss   11:44   0:08 -zsh
+imcheth+   26430  0.0  0.0  11880  7460 pts/3    S    11:44   0:00 -zsh
+imcheth+   26483  0.0  0.0  14068  9472 pts/3    S    11:44   0:00 -zsh
+imcheth+   26485  0.0  0.0  14052  9224 pts/3    S    11:44   0:00 -zsh
+imcheth+   26486  0.0  0.0   5868  2036 pts/3    Sl   11:44   0:00 /home/imchethanjs/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.5.4 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 24
+root     1598660  0.0  0.0      0     0 ?        I    19:26   0:00 [kworker/1:1-mm_percpu_wq]
+root     1618317  0.0  0.0 155352  5744 ?        SLs  19:31   0:00 /usr/bin/gpg-agent --homedir /etc/pacman.d/gnupg --supervised
+root     1618879  0.0  0.0      0     0 ?        S    19:31   0:00 [psimon]
+imcheth+ 1626762  1.9  3.6 3309664 582036 tty1   Sl+  19:34   4:11 /opt/zen-browser-bin/zen-bin -contentproc -isForBrowser -prefsHandle 0:46890 -prefMapHandle 1:288176 -jsInitHandle 2:223968 -parentBuildID 20260127105552 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {4c1be466-a1da-4576-b186-a067eba728e2} -parentPid 5442 -greomni /opt/zen-browser-bin/omni.ja -appomni /opt/zen-browser-bin/browser/omni.ja -appDir /opt/zen-browser-bin/browser 63 tab
+root     1678882  0.0  0.0      0     0 ?        I    19:49   0:00 [kworker/0:0-events]
+imcheth+ 1842298  0.0  0.2 761440 32256 pts/1    Sl+  20:39   0:07 rmpc
+imcheth+ 1850571  0.0  0.3 2192940 58552 pts/2   Sl+  20:41   0:02 yazi --cwd-file=/tmp/yazi-cwd.oTsJHQ
+root     1858121  0.0  0.0      0     0 ?        I    20:43   0:00 [kworker/11:1-events]
+root     1997894  0.0  0.0      0     0 ?        I    21:25   0:00 [kworker/8:0-mm_percpu_wq]
+root     2061417  0.0  0.0      0     0 ?        I    21:44   0:00 [kworker/6:0-i915-unordered]
+root     2117529  0.0  0.0      0     0 ?        I    22:02   0:00 [kworker/3:1]
+root     2118373  0.0  0.0      0     0 ?        I    22:02   0:00 [kworker/9:2-events]
+root     2153027  0.1  0.0      0     0 ?        I<   22:12   0:05 [kworker/u49:2-rtw_tx_wq]
+root     2156964  0.0  0.0      0     0 ?        I    22:14   0:00 [kworker/7:0-events]
+root     2156965  0.0  0.0      0     0 ?        I    22:14   0:00 [kworker/5:1-mm_percpu_wq]
+root     2186127  0.0  0.0      0     0 ?        I    22:23   0:00 [kworker/2:2-events]
+root     2197334  0.1  0.0      0     0 ?        I<   22:26   0:04 [kworker/u49:3-rtw_tx_wq]
+root     2207471  0.2  0.0      0     0 ?        I    22:29   0:06 [kworker/u48:1-events_unbound]
+imcheth+ 2264630  2.0  3.6 3392428 585060 tty1   Sl+  22:47   0:32 /opt/zen-browser-bin/zen-bin -contentproc -isForBrowser -prefsHandle 0:46956 -prefMapHandle 1:288176 -jsInitHandle 2:223968 -parentBuildID 20260127105552 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {ffbe8f0f-c48a-49e3-9836-ddeed828db0e} -parentPid 5442 -greomni /opt/zen-browser-bin/omni.ja -appomni /opt/zen-browser-bin/browser/omni.ja -appDir /opt/zen-browser-bin/browser 87 tab
+root     2264700  0.0  0.0      0     0 ?        I    22:47   0:00 [kworker/5:2-kacpi_notify]
+imcheth+ 2266722  0.0  0.7 2703184 115880 tty1   Sl+  22:47   0:00 /opt/zen-browser-bin/zen-bin -contentproc -isForBrowser -prefsHandle 0:46956 -prefMapHandle 1:288176 -jsInitHandle 2:223968 -parentBuildID 20260127105552 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {189f6c71-beee-4c1c-8c99-1b1028e99ed9} -parentPid 5442 -greomni /opt/zen-browser-bin/omni.ja -appomni /opt/zen-browser-bin/browser/omni.ja -appDir /opt/zen-browser-bin/browser 88 tab
+imcheth+ 2271809  0.0  0.7 2703184 115916 tty1   Sl+  22:49   0:00 /opt/zen-browser-bin/zen-bin -contentproc -isForBrowser -prefsHandle 0:46956 -prefMapHandle 1:288176 -jsInitHandle 2:223968 -parentBuildID 20260127105552 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {6947b3b4-a32b-404a-be2d-5af77c03b3e1} -parentPid 5442 -greomni /opt/zen-browser-bin/omni.ja -appomni /opt/zen-browser-bin/browser/omni.ja -appDir /opt/zen-browser-bin/browser 89 tab
+root     2272617  0.1  0.0      0     0 ?        I    22:49   0:01 [kworker/u48:0-events_unbound]
+root     2272619  0.0  0.0      0     0 ?        I    22:49   0:01 [kworker/u48:6-iou_exit]
+root     2273496  0.0  0.0      0     0 ?        I    22:49   0:00 [kworker/6:1-events]
+root     2278810  0.0  0.0      0     0 ?        I    22:51   0:00 [kworker/4:0-i915-unordered]
+root     2278957  0.0  0.0      0     0 ?        I    22:51   0:00 [kworker/0:1]
+imcheth+ 2281079  0.0  0.7 2703184 117848 tty1   Sl+  22:51   0:00 /opt/zen-browser-bin/zen-bin -contentproc -isForBrowser -prefsHandle 0:46956 -prefMapHandle 1:288176 -jsInitHandle 2:223968 -parentBuildID 20260127105552 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {23c4859d-a41a-4f81-bb73-ff11e29a1ff3} -parentPid 5442 -greomni /opt/zen-browser-bin/omni.ja -appomni /opt/zen-browser-bin/browser/omni.ja -appDir /opt/zen-browser-bin/browser 90 tab
+root     2299045  0.0  0.0      0     0 ?        I    22:57   0:00 [kworker/8:2-events]
+root     2300978  0.0  0.0      0     0 ?        I    22:57   0:00 [kworker/1:0]
+root     2301060  0.0  0.0      0     0 ?        I    22:57   0:00 [kworker/7:2]
+root     2302269  0.1  0.0      0     0 ?        I    22:58   0:01 [kworker/u48:5-events_unbound]
+root     2308346  0.0  0.0      0     0 ?        D<   22:59   0:00 [kworker/u49:1+i915_flip]
+root     2308585  0.0  0.0      0     0 ?        I    22:59   0:00 [kworker/10:2]
+root     2322071  0.0  0.0      0     0 ?        I    23:04   0:00 [kworker/u48:2-iou_exit]
+root     2322072  0.2  0.0      0     0 ?        I    23:04   0:01 [kworker/u48:4-events_unbound]
+imcheth+ 2322321  0.0  0.0   7956  5804 ?        Ss   23:04   0:00 /bin/sh /usr/sbin/xdg-open /home/imchethanjs/embedUR/Linux Course Modules/Campus Hires 2026 – Linux - Assessment Module 1-5.pptx
+imcheth+ 2322464  1.7  2.0 3160652 334780 ?      Sl   23:04   0:09 /opt/onlyoffice/desktopeditors/DesktopEditors /home/imchethanjs/embedUR/Linux Course Modules/Campus Hires 2026 – Linux - Assessment Module 1-5.pptx
+imcheth+ 2322474  0.0  0.4 445976 76768 ?        S    23:04   0:00 /opt/onlyoffice/desktopeditors/editors_helper --type=zygote --no-zygote-sandbox --no-sandbox --force-device-scale-factor=1 --log-severity=disable --user-agent-product=Chrome/109.0.0.0 AscDesktopEditor/9.2.1.43 --lang=en-US --user-data-dir=/home/imchethanjs/.local/share/onlyoffice/desktopeditors/data/cache --log-file=/home/imchethanjs/.local/share/onlyoffice/desktopeditors/data/cache/log.log
+imcheth+ 2322477  0.0  0.4 445972 76756 ?        S    23:04   0:00 /opt/onlyoffice/desktopeditors/editors_helper --type=zygote --no-sandbox --force-device-scale-factor=1 --log-severity=disable --user-agent-product=Chrome/109.0.0.0 AscDesktopEditor/9.2.1.43 --lang=en-US --user-data-dir=/home/imchethanjs/.local/share/onlyoffice/desktopeditors/data/cache --log-file=/home/imchethanjs/.local/share/onlyoffice/desktopeditors/data/cache/log.log
+imcheth+ 2322519  0.0  0.2 773956 36392 ?        Sl   23:04   0:00 /opt/onlyoffice/desktopeditors/editors_helper --type=zygote --no-sandbox --force-device-scale-factor=1 --log-severity=disable --user-agent-product=Chrome/109.0.0.0 AscDesktopEditor/9.2.1.43 --lang=en-US --user-data-dir=/home/imchethanjs/.local/share/onlyoffice/desktopeditors/data/cache --log-file=/home/imchethanjs/.local/share/onlyoffice/desktopeditors/data/cache/log.log
+imcheth+ 2322524  0.0  0.6 1528424 111880 ?      Sl   23:04   0:00 /opt/onlyoffice/desktopeditors/editors_helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-sandbox --log-severity=disable --user-agent-product=Chrome/109.0.0.0 AscDesktopEditor/9.2.1.43 --lang=en-US --user-data-dir=/home/imchethanjs/.local/share/onlyoffice/desktopeditors/data/cache --log-file=/home/imchethanjs/.local/share/onlyoffice/desktopeditors/data/cache/log.log --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,14595490556967601375,11744136094996725961,131072 --disable-features=BackForwardCache
+imcheth+ 2322535  0.2  1.3 49774556 209976 ?     Sl   23:04   0:01 /opt/onlyoffice/desktopeditors/editors_helper --type=zygote --no-sandbox --force-device-scale-factor=1 --log-severity=disable --user-agent-product=Chrome/109.0.0.0 AscDesktopEditor/9.2.1.43 --lang=en-US --user-data-dir=/home/imchethanjs/.local/share/onlyoffice/desktopeditors/data/cache --log-file=/home/imchethanjs/.local/share/onlyoffice/desktopeditors/data/cache/log.log
+imcheth+ 2322578  4.2  2.0 60326112 328656 ?     Sl   23:04   0:24 /opt/onlyoffice/desktopeditors/editors_helper --type=zygote --no-sandbox --force-device-scale-factor=1 --log-severity=disable --user-agent-product=Chrome/109.0.0.0 AscDesktopEditor/9.2.1.43 --lang=en-US --user-data-dir=/home/imchethanjs/.local/share/onlyoffice/desktopeditors/data/cache --log-file=/home/imchethanjs/.local/share/onlyoffice/desktopeditors/data/cache/log.log
+imcheth+ 2322652  1.0  1.6 2342084 270704 ?      Sl   23:04   0:05 /opt/onlyoffice/desktopeditors/editors_helper --type=zygote --no-zygote-sandbox --no-sandbox --force-device-scale-factor=1 --log-severity=disable --user-agent-product=Chrome/109.0.0.0 AscDesktopEditor/9.2.1.43 --lang=en-US --user-data-dir=/home/imchethanjs/.local/share/onlyoffice/desktopeditors/data/cache --log-file=/home/imchethanjs/.local/share/onlyoffice/desktopeditors/data/cache/log.log
+root     2330104  0.0  0.0      0     0 ?        I    23:06   0:00 [kworker/2:0]
+root     2333098  0.0  0.0      0     0 ?        I    23:07   0:00 [kworker/11:0-events]
+root     2336113  0.0  0.0      0     0 ?        I    23:08   0:00 [kworker/4:2-events]
+root     2339843  0.0  0.0      0     0 ?        I    23:09   0:00 [kworker/u48:3-events_unbound]
+root     2339844  0.0  0.0      0     0 ?        I    23:09   0:00 [kworker/u48:7-events_unbound]
+root     2339846  0.0  0.0      0     0 ?        I    23:09   0:00 [kworker/u48:8-events_unbound]
+imcheth+ 2340421  0.0  0.0  14500 10864 pts/2    S+   23:09   0:00 nvim /home/imchethanjs/embedUR/Assignments/Linux/Module-1/Module_1.md
+imcheth+ 2340422  1.3  0.3  98148 63016 ?        Ssl  23:09   0:03 nvim --embed /home/imchethanjs/embedUR/Assignments/Linux/Module-1/Module_1.md
+imcheth+ 2340425  0.0  0.7 1786160 113540 ?      Ssl  23:09   0:00 node /home/imchethanjs/.local/share/nvim/mason/bin/tailwindcss-language-server --stdio
+root     2340442  0.0  0.0  15420  6108 ?        S    23:09   0:00 systemd-userwork: waiting...
+root     2341896  0.0  0.0  15424  6120 ?        S    23:09   0:00 systemd-userwork: waiting...
+imcheth+ 2347711  0.0  0.0   2704   900 ?        S    23:11   0:00 /usr/sbin/wl-copy --type text/plain
+root     2354917  0.0  0.0  15280  5396 ?        S    23:13   0:00 systemd-userwork: waiting...
+root     2355210  0.0  0.0      0     0 ?        I    23:13   0:00 [kworker/4:1]
+imcheth+ 2355845  0.0  0.0  10732  7040 pts/3    R+   23:13   0:00 ps aux
