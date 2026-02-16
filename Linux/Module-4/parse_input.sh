@@ -9,7 +9,7 @@ fi
 INPUT_FILE=$1
 OUTPUT_FILE="output.txt"
 
-if [ ! -f $INPUT_FILE ]; then
+if [ ! -f "$INPUT_FILE" ]; then
   echo "File not found!"
   exit 1
 fi
