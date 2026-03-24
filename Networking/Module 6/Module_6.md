@@ -1,5 +1,7 @@
 # Assignment Questions for Layer - 3 (Module 6)
 
+### Output Drive link - [Google Drive](https://drive.google.com/drive/folders/1xBKeRVyEhNCJzfyFXOgQ2QRq96xuRf28?usp=sharing)
+
 ---
 
 ### Question 1:

@@ -2,6 +2,8 @@
 
 ## Module 1 and 2 assessment questions.
 
+### Output Drive link - [Google Drive](https://drive.google.com/drive/folders/1xBKeRVyEhNCJzfyFXOgQ2QRq96xuRf28?usp=sharing)
+
 ---
 
 1. Consider a case, a folder has multiple files and how would you copy it to destination machine path (Try using SCP, cp options in Linux)

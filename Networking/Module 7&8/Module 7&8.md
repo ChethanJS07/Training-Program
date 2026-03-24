@@ -1,6 +1,6 @@
 # Networking Training Program - Module 7 and 8 Assignment Questions
 
-## Output: [Drive Link](https://drive.google.com/drive/folders/1xBKeRVyEhNCJzfyFXOgQ2QRq96xuRf28?usp=sharing)
+### Output Drive link - [Google Drive](https://drive.google.com/drive/folders/1xBKeRVyEhNCJzfyFXOgQ2QRq96xuRf28?usp=sharing)
 
 ---
 
