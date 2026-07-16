@@ -39,8 +39,8 @@ def check_telnet(config):
 
 
 def check_ssh(config):
-    transport_pattern = re.compile(r"transport input\s+(.*)", re.IGNORECASE)
-    transports = transport_pattern.findall(config)
+    pattern = re.compile(r"transport input\s+(.*)", re.IGNORECASE)
+    transports = pattern.findall(config)
     ssh_enabled = any("ssh" in line.lower() for line in transports)
 
     version_pattern = re.compile(r"ip ssh version 2", re.IGNORECASE)
