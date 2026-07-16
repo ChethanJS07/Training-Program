@@ -1,0 +1,19 @@
+Command: hostnamectl
+Device: 127.0.0.1
+Timestamp: 2026-07-16T12:29:04.490418
+--------------------------------------------------------------------------------
+
+
+   Static hostname: [0;38;5;245m(unset)                          
+Transient hostname: localhost
+         Icon name: computer-vm
+           Chassis: vm 🖴
+        Machine ID: 53292ce8da4ce428990acce407aa1789
+           Boot ID: d0225217017b4e55b0a76b807325a0bd
+    Virtualization: kvm
+  Operating System: ]8;;https://www.debian.org/Debian GNU/Linux 12 (bookworm)]8;;   
+            Kernel: Linux 6.1.0-49-amd64
+      Architecture: x86-64
+   Hardware Vendor: QEMU
+    Hardware Model: Standard PC _i440FX + PIIX, 1996_
+  Firmware Version: Arch Linux 1.17.0-2-2

@@ -1,0 +1,29 @@
+================================================================================
+DEVICE HEALTH COLLECTOR – SUMMARY REPORT
+================================================================================
+Generated: 2026-07-16T12:58:11.372375
+Total execution time: 34.56 seconds
+--------------------------------------------------------------------------------
+Total devices: 2
+Successful: 1
+Failed: 1
+
+FAILED CONNECTIONS:
+  - 192.168.1.1: TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 192.168.1.1:22
+
+
+
+SUCCESSFUL CONNECTIONS:
+  - 127.0.0.1
+      • 127.0.0.1_whoami_20260716_125811.log
+      • 127.0.0.1_hostnamectl_20260716_125811.log
+
+================================================================================
+All logs stored in: device_logs/
