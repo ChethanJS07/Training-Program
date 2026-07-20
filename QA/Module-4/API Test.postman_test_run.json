@@ -1,0 +1,170 @@
+{
+	"id": "02fa8e82-f472-44a6-98f7-1c09518eda40",
+	"name": "API Test",
+	"timestamp": "2026-07-20T11:32:05.439Z",
+	"collection_id": "56759458-b72f82b7-a3c0-4921-addf-4b4a61a73508",
+	"folder_id": 0,
+	"environment_id": "56759458-ed63f41e-1082-47d0-8347-d3e6dbd922ef",
+	"totalPass": 8,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2026-07-20T11:32:01.141Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "dd1d4926-b69a-458b-ac3c-d20efdc81837",
+			"name": "Authenticate (Login)",
+			"url": "https://reqres.in/api/login",
+			"time": 1163,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response has token": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response has token": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				1163
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response has token": true
+				}
+			]
+		},
+		{
+			"id": "7afa4ec3-0538-4fea-9b0b-2a45269f06d6",
+			"name": "Get User List",
+			"url": "https://reqres.in/api/users?page=1",
+			"time": 645,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response has data array": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response has data array": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				645
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response has data array": true
+				}
+			]
+		},
+		{
+			"id": "ea0efe86-0fbb-48f9-a484-65396dd5565b",
+			"name": "Get Single User",
+			"url": "https://reqres.in/api/users/1",
+			"time": 482,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"User ID matches": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"User ID matches": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				482
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"User ID matches": true
+				}
+			]
+		},
+		{
+			"id": "9000f9d3-26d5-48b2-a265-2f8de4510b26",
+			"name": "Update User",
+			"url": "https://reqres.in/api/users/1",
+			"time": 394,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response has updated name": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response has updated name": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				394
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response has updated name": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 2684,
+	"collection": {
+		"requests": [
+			{
+				"id": "dd1d4926-b69a-458b-ac3c-d20efdc81837",
+				"method": "POST"
+			},
+			{
+				"id": "7afa4ec3-0538-4fea-9b0b-2a45269f06d6",
+				"method": "GET"
+			},
+			{
+				"id": "ea0efe86-0fbb-48f9-a484-65396dd5565b",
+				"method": "GET"
+			},
+			{
+				"id": "9000f9d3-26d5-48b2-a265-2f8de4510b26",
+				"method": "PUT"
+			}
+		]
+	}
+}
